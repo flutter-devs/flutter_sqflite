@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/flutter_sqflite/BuildConfig.java
- com.example.flutter_sqflite.BuildConfig
